@@ -10,4 +10,10 @@
 ![NodeJS](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/node-js.png)&nbsp;&nbsp;
 ![TensorFlow](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/tensorflow.png)
 
-Firebase &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ReactJS &nbsp;&nbsp;&nbsp;&nbsp; NodeJS &nbsp;&nbsp; TensorFlow
+&nbsp; Firebase &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ReactJS &nbsp;&nbsp;&nbsp;&nbsp; NodeJS &nbsp;&nbsp; TensorFlow
+
+## About Me
+ + 19 Years old
+ + Pursuing B.Tech in CS @KIIT
+ + [Portfolio](https://nikhilcodes.github.io)
+ + [LinkedIn](https://www.linkedin.com/in/nikhil-nayak-3b0967179)
