@@ -30,21 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-
 <br />
-<br /><br />
-
-
-&nbsp;
-![Firebase](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/firebase.png)&nbsp;&nbsp;
-![MongoDB](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/mongodb.png)&nbsp;&nbsp;
-![Python](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/python.png)&nbsp;&nbsp;
-![Flutter](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/flutter.png)&nbsp;&nbsp;
-![ReactJS](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/react.png)&nbsp;&nbsp;
-![NodeJS](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/node-js.png)&nbsp;&nbsp;
-![TensorFlow](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/tensorflow.png)
-
-&nbsp; Firebase &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ReactJS &nbsp;&nbsp;&nbsp;&nbsp; NodeJS &nbsp;&nbsp; TensorFlow
 
 ## About Me
  + 19 Years old
