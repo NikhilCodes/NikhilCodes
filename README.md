@@ -1,5 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/banner.png)
 
+<a href="https://www.linkedin.com/in/nikhil-nayak-3b0967179/?trk=public-profile-join-page"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://github.com/NikhilCodes"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<br />
+<br />
+
 ## Tech I work with
 
 &nbsp;
@@ -17,4 +22,13 @@
  + 19 Years old
  + Pursuing B.Tech in CS @KIIT
  + [Portfolio](https://nikhilcodes.github.io)
- + [LinkedIn](https://www.linkedin.com/in/nikhil-nayak-3b0967179)
+
+## Stats
+
+<br />
+<br />
+<a href="https://github.com/NikhilCodes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=html&show_icons=true&theme=tokyonight" alt="Nikhil's github stats"/></a>
+ 
+<a href="https://github.com/NikhilCodes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true" alt="Nikhil's github stats"/></a>
