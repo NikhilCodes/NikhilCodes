@@ -29,8 +29,6 @@
 <a href="https://github.com/NikhilCodes">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true" alt="Nikhil's github stats"/></a>
 <br /><br /> 
-<a href="https://github.com/NikhilCodes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true" alt="Nikhil's github stats"/></a>
  <a href="https://github.com/NikhilCodes">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=html&show_icons=true&theme=tokyonight" alt="Nikhil's github stats"/></a>
 
