@@ -7,13 +7,13 @@
 </p>
 <br />
 <br />
-
-<a href="https://github.com/NikhilCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&theme=tokyonight&hide=html,kotlin" />
-</a>
 <a href="https://github.com/NikhilCodes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats"/>
 </a>
+<a href="https://github.com/NikhilCodes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&theme=tokyonight&hide=html,kotlin" />
+</a>
+
 
 ## Tech I work with
 
