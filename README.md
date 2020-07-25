@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&theme=tokyonight&hide=html,kotlin" />
 </a>
 <a href="https://github.com/NikhilCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=27" alt="Nikhil's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=35" alt="Nikhil's github stats"/>
 </a>
 
 ## Tech I work with
