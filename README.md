@@ -39,4 +39,6 @@
  + [![OS](https://img.shields.io/badge/OS-Fedora-informational?style=flat-square&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Fedora_(operating_system))
  + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
- + ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nikhilcodes.nikhilcodes)
+ <br />
+ <br />
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nikhilcodes.nikhilcodes)
