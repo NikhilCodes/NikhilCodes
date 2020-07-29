@@ -32,6 +32,7 @@
 ## About Me
  + 19 Years old
  + Pursuing B.Tech in CS @KIIT
+ + Anime Freak
  + [Portfolio](https://nikhilcodes.github.io)
  + [![OS](https://img.shields.io/badge/OS-Fedora-informational?style=flat-square&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Fedora_(operating_system))
  + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
