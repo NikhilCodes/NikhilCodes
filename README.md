@@ -7,9 +7,9 @@
 </p>
 <br />
 <br />
-<a href="https://github.com/NikhilCodes">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats"/>
-</a>
+</p>
 
 
 ## Tech I work with
