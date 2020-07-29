@@ -8,10 +8,7 @@
 <br />
 <br />
 <a href="https://github.com/NikhilCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikhilCodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats"/>
-</a>
-<a href="https://github.com/NikhilCodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilCodes&theme=tokyonight&hide=html,c,c%2B%2B,MakeFile,kotlin,jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats"/>
 </a>
 
 
