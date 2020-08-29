@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=MakeFile,Jupyter%20Notebook,C,CSS&theme=radical" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=MakeFile,Jupyter%20Notebook,C,CSS,Python&theme=radical" alt="Top Langs" />
 </p>
 
 
