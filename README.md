@@ -19,6 +19,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=66e8ff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61ddff)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff2144)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)<br />
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
