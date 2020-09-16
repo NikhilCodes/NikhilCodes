@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/NikhilCodes/NikhilCodes/master/res/banner.png)
-
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nikhil-nayak-3b0967179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/NikhilCodes"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,6 +20,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff2144)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)<br />
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=aa09ee)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
