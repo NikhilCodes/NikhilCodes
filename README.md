@@ -4,7 +4,6 @@
   <a href="mailto:nikhil.nixel@gmail.com?subject=Hello%20Nikhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
-<br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=MakeFile,Jupyter%20Notebook,C,CSS,Python&theme=radical" alt="Top Langs" />
