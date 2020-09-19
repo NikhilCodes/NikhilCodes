@@ -34,7 +34,7 @@
  + 19 Years old
  + Pursuing B.Tech in CS @KIIT
  + [Portfolio](https://nikhilcodes.github.io)
- + [![OS](https://img.shields.io/badge/OS-Fedora-informational?style=flat-square&logo=fedora&logoColor=white)](https://en.wikipedia.org/wiki/Fedora_(operating_system))
+ + [![OS](https://img.shields.io/badge/OS-Pop!_OS-informational?style=flat-square&logo=debian&logoColor=cyan)](https://en.wikipedia.org/wiki/Pop!_OS)
  + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
  <br />
