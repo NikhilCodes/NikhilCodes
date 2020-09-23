@@ -18,7 +18,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61ddff)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff2144)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)<br />
+![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+<br />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=aa09ee)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
@@ -26,7 +28,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![postgres](https://img.shields.io/badge/-Postgresql-00599C?style=for-the-badge&logo=postgresql)
 
 <br />
 
