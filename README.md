@@ -33,7 +33,7 @@
 <br />
 
 ## About Me
- + 19 Years old
+ + 20 Years old
  + Pursuing B.Tech in CS @KIIT
  + [Portfolio](https://nikhilcodes.github.io)
  + [![OS](https://img.shields.io/badge/OS-Pop!_OS-informational?style=flat-square&logo=debian&logoColor=cyan)](https://en.wikipedia.org/wiki/Pop!_OS)
