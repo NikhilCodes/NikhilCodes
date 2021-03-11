@@ -11,19 +11,17 @@
 
 
 ## Tech I work with
-
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=66e8ff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61ddff)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff2144)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <br />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=aa09ee)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
