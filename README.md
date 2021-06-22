@@ -4,10 +4,10 @@
   <a href="mailto:nikhil.nixel@gmail.com?subject=Hello%20Nikhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
-<p align="center">
+<a href="https://github.com/NikhilCodes">
 ![](https://github.com/NikhilCodes/GitStats/blob/master/generated/overview.svg)
 ![](https://github.com/NikhilCodes/GitStats/blob/master/generated/languages.svg)
-</p>
+</a>
 
 
 ## Tech I work with
