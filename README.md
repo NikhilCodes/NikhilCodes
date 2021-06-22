@@ -5,8 +5,8 @@
 </p>
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilcodes&theme=radical&hide=issues&show_icons=true&&line_height=32" alt="Nikhil's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodes&hide=Jupyter%20Notebook,C,Python,HTML,CSS,Objective-C,Kotlin,SCSS,Dockerfile,Shell,Makefile,C%2B%2B,Javascript&theme=radical" alt="Top Langs" />
+![](https://github.com/NikhilCodes/GitStats/blob/master/generated/overview.svg)
+![](https://github.com/NikhilCodes/GitStats/blob/master/generated/languages.svg)
 </p>
 
 
