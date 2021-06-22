@@ -4,11 +4,13 @@
   <a href="mailto:nikhil.nixel@gmail.com?subject=Hello%20Nikhil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
-<a href="https://github.com/NikhilCodes">
+
+
+<p style="text-align:right">
+  
 ![](https://github.com/NikhilCodes/GitStats/blob/master/generated/overview.svg)
 ![](https://github.com/NikhilCodes/GitStats/blob/master/generated/languages.svg)
-</a>
-
+</p>
 
 ## Tech I work with
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=66e8ff)
