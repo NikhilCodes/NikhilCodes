@@ -32,11 +32,10 @@
 
 <br />
 
-## About Me
- + Pursuing B.Tech in CS @KIIT
- + [Portfolio](https://nikhilcodes.github.io)
- + [![OS](https://img.shields.io/badge/OS-Pop!_OS-informational?style=flat-square&logo=debian&logoColor=cyan)](https://en.wikipedia.org/wiki/Pop!_OS)
- + [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[nikhilcodes.in](https://nikhilcodes.in)
+
+
+<a href="https://www.buymeacoffee.com/nikhilcodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
  <br />
  <br />
